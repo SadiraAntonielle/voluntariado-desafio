@@ -13,3 +13,5 @@ Este é o repositório do meu portfólio pessoal, onde compartilho informações
 - Interesses: Destaco meus interesses e atividades no tempo livre, incluindo meu gosto por desafios de programação.
 - Motivação para o Voluntariado: Compartilho minha motivação para participar de projetos voluntários relacionados à tecnologia.
 - Redes Sociais: Ícones linkados para as minhas redes sociais (LinkedIn, GitHub, Instagram).
+
+![PortfolioSadira](sadi.png)
