@@ -14,4 +14,4 @@ Este é o repositório do meu portfólio pessoal, onde compartilho informações
 - Motivação para o Voluntariado: Compartilho minha motivação para participar de projetos voluntários relacionados à tecnologia.
 - Redes Sociais: Ícones linkados para as minhas redes sociais (LinkedIn, GitHub, Instagram).
 
-![PortfolioSadira](sadi.png)
+![PortfolioSadira](src/img/sadi.png)
