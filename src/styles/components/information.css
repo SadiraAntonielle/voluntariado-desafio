@@ -1,0 +1,40 @@
+@import '../variables.css';
+
+#information-container {
+  background: var(--btn-gradient);
+  padding: 2rem;
+  border-radius: var(--container-border);
+  margin-top: 1rem;
+}
+
+#information {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 0.5rem;
+}
+
+#information > div {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  gap: 1rem;
+}
+
+#information > div svg {
+  font-size: 1.5rem;
+  color: black;
+}
+
+#information > div h4 {
+  margin: 0;
+  font-size: 0.8rem;
+  color: whitesmoke;
+}
+
+#information > div p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: black;
+  font-weight: bold;
+}

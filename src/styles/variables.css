@@ -1,0 +1,12 @@
+:root {
+  --font: Helvetica;
+  --text: #fff;
+  --text-secondary: #a6a6a6;
+  --body-color: #afa999;
+  --bg-color: #fce6c8;
+  --bg-color-secondary: #1d1d1d;
+  --container-border: 10px;
+  --card-border: 5px;
+  --btn-gradient: linear-gradient(90deg, rgb(241, 87, 26) 0%, rgb(241, 111, 24) 100%);
+  --main-container-color: #f14f0f;
+  }

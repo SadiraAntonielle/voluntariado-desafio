@@ -1,0 +1,18 @@
+@import '../variables.css';
+
+#main-content {
+  background: linear-gradient(90deg, rgb(241, 87, 26) 0%, rgb(241, 111, 24) 100%);
+  flex: 2 1 0;
+  border-radius: var(--container-border);
+  padding: 3rem;
+}
+
+#main-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+#main-content h4 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
